@@ -1,0 +1,47 @@
+.animate {
+  -webkit-transition: all .3s ease-in-out !important;
+  -moz-transition: all .3s ease-in-out !important;
+  -ms-transition: all .3s ease-in-out !important;
+  -o-transition: all .3s ease-in-out !important;
+  transition: all .3s ease-in-out !important;
+}
+
+.slow-animate {
+  -webkit-transition: all 1s ease-in-out !important;
+  -moz-transition: all 1s ease-in-out !important;
+  -ms-transition: all 1s ease-in-out !important;
+  -o-transition: all 1s ease-in-out !important;
+  transition: all 1s ease-in-out !important;
+}
+
+.slide-left-on-start {
+  margin-left:-100%;
+}
+
+.slide-right-on-start {
+  margin-right:-100%;
+}
+
+.hide-on-start {
+  opacity:0 !important;
+}
+
+.lower-on-start {
+  margin-top:20px !important;
+}
+
+@mixin animate() {
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+
+@mixin slowAnimate() {
+  -webkit-transition: all 1s ease-in-out !important;
+  -moz-transition: all 1s ease-in-out !important;
+  -ms-transition: all 1s ease-in-out !important;
+  -o-transition: all 1s ease-in-out !important;
+  transition: all 1s ease-in-out !important;
+}
