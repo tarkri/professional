@@ -1,31 +1,12 @@
 <div id="projects">
-    <div class="page-section stagen">
-        <div class="container">
-            <h1>Stagen</h1>
-        </div>
-        <div class="container">
-            <div class="project-image slide-left-on-start pull-left">
-                <img src="{{ URL::asset('library/img/proj-stagen.png') }}" alt="">
-            </div>
-            <div class="project-description pull-right">
-                <ul>
-                    <li><p>Website Design</p></li>
-                    <li><p>Web Application Development</p></li>
-                    <li><p>User Experience Consulting</p></li>
-                    <li><p>QA and In-depth User Testing</p></li>
-                </ul>
-                <p>Stagen is exists to help businesses be a force for good. I help them teach and train leaders via their Stagen Online Portal, which houses their mindfully curated and produced learning materials and practices. My role as design technologist at COLOSSAL was to help transition and improve Stagen’s complex and robust analog teaching material in the digital world. I now develop even more robust internal apps and platforms for them interact with their students and team members. </p>
-            </div>
-        </div>
-        <div class="clearfix"></div>
-    </div>
-    <div class="page-section dsvc">
+    <div class="project dsvc">
         <div class="container">
             <h1>Dallas Society of Visual Communications</h1>
         </div>
         <div class="container">
             <div class="project-image slide-right-on-start pull-right">
-                <img src="{{ URL::asset('library/img/proj-dsvc.png') }}" alt="">
+                <img src="{{ URL::asset('library/img/proj-dsvc.png') }}" alt=""><br>
+                <a href="http://dsvc.org" class="external-link"><img src="{{ URL::asset('library/img/link-external.png') }}" alt=""><span>Visit</span></a>
             </div>
             <div class="project-description pull-left">
                 <ul>
@@ -37,13 +18,55 @@
         </div>
         <div class="clearfix"></div>
     </div>
-    <div class="page-section nestle">
+    <div class="project sojourner">
+        <div class="container">
+            <h1>Sojourner Society</h1>
+        </div>
+        <div class="container">
+            <div class="project-image slide-left-on-start pull-left">
+                <img src="{{ URL::asset('library/img/proj-sojourner.png') }}" alt=""><br>
+                <a class="external-link in-dev"><img src="{{ URL::asset('library/img/link-external.png') }}" alt=""><span class="show">In Development</span></a>
+            </div>
+            <div class="project-description pull-right">
+                <ul>
+                    <li><p>Website Design</p></li>
+                    <li><p>Website and Application Development</p></li>
+                    <li><p>Brand Design and Consulting</p></li>
+                </ul>
+                <p>Sojourner Society lives by the creed that “You are magic”. I am currently designing and developing the marketing and online communication that promotes Sojourner Society’s debut as a mindful, expert, and magical source of photography, video, and thought leadership. </p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="project stagen">
+        <div class="container">
+            <h1>Stagen</h1>
+        </div>
+        <div class="container">
+            <div class="project-image slide-right-on-start pull-right">
+                <img src="{{ URL::asset('library/img/proj-stagen.png') }}" alt=""><br>
+                <a href="http://stagen.com" class="external-link"><img src="{{ URL::asset('library/img/link-external.png') }}" alt=""><span>Visit</span></a>
+            </div>
+            <div class="project-description pull-left">
+                <ul>
+                    <li><p>Website Design</p></li>
+                    <li><p>Web Application Development</p></li>
+                    <li><p>User Experience Consulting</p></li>
+                    <li><p>QA and In-depth User Testing</p></li>
+                </ul>
+                <p>Stagen is exists to help businesses be a force for good. I help them teach and train leaders via their Stagen Online Portal, which houses their mindfully curated and produced learning materials and practices. My role as design technologist at COLOSSAL was to help transition and improve Stagen’s complex and robust analog teaching material in the digital world. I now develop even more robust internal apps and platforms for them interact with their students and team members. </p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="project nestle">
         <div class="container">
             <h1>Nestlecaf&eacute;</h1>
         </div>
         <div class="container">
             <div class="project-image slide-left-on-start pull-left">
-                <img src="{{ URL::asset('library/img/proj-nestle.png') }}" alt="">
+                <img src="{{ URL::asset('library/img/proj-nestle.png') }}" alt=""><br>
+                <a href="http://nestlecafe.com" class="external-link"><img src="{{ URL::asset('library/img/link-external.png') }}" alt=""><span>Visit</span></a>
             </div>
             <div class="project-description pull-right">
                 <ul>
@@ -57,35 +80,17 @@
         </div>
         <div class="clearfix"></div>
     </div>
-    <div class="page-section sojourner">
-        <div class="container">
-            <h1>Sojourner Society</h1>
-        </div>
-        <div class="container">
-            <div class="project-image slide-right-on-start pull-right">
-                <img src="{{ URL::asset('library/img/proj-sojourner.png') }}" alt="">
-            </div>
-            <div class="project-description pull-left">
-                <ul>
-                    <li><p>Website Design</p></li>
-                    <li><p>Website and Application Development</p></li>
-                    <li><p>Brand Design and Consulting</p></li>
-                    <li><p>Currently In Development</p></li>
-                </ul>
-                <p>Sojourner Society lives by the creed that “You are magic”. I am currently designing and developing the marketing and online communication that promotes Sojourner Society’s debut as a mindful, expert, and magical source of photography, video, and thought leadership. </p>
-            </div>
-        </div>
-        <div class="clearfix"></div>
-    </div>
-    <div class="page-section nssc">
+
+    <div class="project nssc">
         <div class="container">
             <h1>National Student Show and Conference</h1>
         </div>
         <div class="container">
-            <div class="project-image slide-left-on-start pull-left">
-                <img src="{{ URL::asset('library/img/proj-nssc.png') }}" alt="">
+            <div class="project-image slide-right-on-start pull-right">
+                <img src="{{ URL::asset('library/img/proj-nssc.png') }}" alt=""><br>
+                <a href="http://nationalstudentshow.com" class="external-link"><img src="{{ URL::asset('library/img/link-external.png') }}" alt=""><span>Visit</span></a>
             </div>
-            <div class="project-description pull-right">
+            <div class="project-description pull-left">
                 <ul>
                     <li><p>Website Design</p></li>
                     <li><p>Website and Application Development</p></li>

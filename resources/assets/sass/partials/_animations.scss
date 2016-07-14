@@ -23,11 +23,11 @@
 }
 
 .hide-on-start {
-  opacity:0 !important;
+  opacity:0;
 }
 
 .lower-on-start {
-  margin-top:20px !important;
+  margin-top:20px;
 }
 
 @mixin animate() {
@@ -44,4 +44,22 @@
   -ms-transition: all 1s ease-in-out !important;
   -o-transition: all 1s ease-in-out !important;
   transition: all 1s ease-in-out !important;
+}
+
+@media screen and (max-width:1024px) {
+  .slide-left-on-start {
+    margin-left:0;
+  }
+
+  .slide-right-on-start {
+    margin-right:0;
+  }
+
+  .hide-on-start {
+    opacity:1;
+  }
+
+  .lower-on-start {
+    margin-top:0;
+  }
 }

@@ -29,7 +29,7 @@ $(document).ready(function(){
             // element has gone out of viewport
         }
     });
-    $('#projects .page-section').bind('inview', function (event, visible, topOrBottomOrBoth) {
+    $('#projects .project').bind('inview', function (event, visible, topOrBottomOrBoth) {
         if (visible == true) {
             // element is now visible in the viewport
             $(this).find('.project-image').removeClass('slide-left-on-start slide-right-on-start');
