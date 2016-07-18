@@ -9,9 +9,9 @@
         <div class="clearfix"></div>
         <nav class="animate-element slow-animate hide-on-start lower-on-start">
             <ul>
-                <li><a href="#">Experience</a></li>
-                <li><a href="#">Projects</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a class="nav" href="#experience">Experience</a></li>
+                <li><a class="nav" href="#projects">Projects</a></li>
+                <li><a class="nav" href="#contact">Contact</a></li>
             </ul>
         </nav>
     </div>

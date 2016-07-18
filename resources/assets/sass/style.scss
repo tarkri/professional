@@ -257,8 +257,10 @@
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
+    border:1px solid lighten(#356139, 20%);
     &.ready {
-      background: #80e18e;
+      //background: #80e18e;
+      background: transparent;
       color: #356139;
     }
   }
