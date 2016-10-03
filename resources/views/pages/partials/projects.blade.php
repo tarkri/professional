@@ -13,8 +13,9 @@
                     <li><p>Website Development</p></li>
                     <li><p>Application development, specifically their store locator</p></li>
                 </ul>
-                <p>With over 60 million customers a year, Nestlecafe wanted responsive website with a easy to use store locator to help their customer find their stores. My role as web developer at COLOSSAL was to collaborate with Nestlecafe’s in-house design team to develop and test their store locator and user experience throughout their site. </p>
             </div>
+            <p>The DSVC consists of designer, writers, photographers, illustrators, broadcast producers and the many vendors and suppliers who support them. They continually seek to elevate the standards of creative industries and the value that creative professionals add to commerce and the community at-large. My role as design technologist and brand consultant at COLOSSAL was to provide a online social space for Dallas creatives to share work, collaborate, and take stock at the design legacy birthed in the Dallas Metroplex. Currently, we also helped resurrect DSVC’s classic magazine “Rough” as online publication with highlighted speaker interviews and a DSVC board member-studded podcast. </p>
+
         </div>
         <div class="clearfix"></div>
     </div>
@@ -75,7 +76,8 @@
                     <li><p>Brand Consulting</p></li>
                     <li><p>Design and Development of Extended Brand (DSVC Rough)</p></li>
                 </ul>
-                <p>The DSVC consists of designer, writers, photographers, illustrators, broadcast producers and the many vendors and suppliers who support them. They continually seek to elevate the standards of creative industries and the value that creative professionals add to commerce and the community at-large. My role as design technologist and brand consultant at COLOSSAL was to provide a online social space for Dallas creatives to share work, collaborate, and take stock at the design legacy birthed in the Dallas Metroplex. Currently, we also helped resurrect DSVC’s classic magazine “Rough” as online publication with highlighted speaker interviews and a DSVC board member-studded podcast. </p>
+                <p>With over 60 million customers a year, Nestlecafe wanted responsive website with a easy to use store locator to help their customer find their stores. My role as web developer at COLOSSAL was to collaborate with Nestlecafe’s in-house design team to develop and test their store locator and user experience throughout their site. </p>
+
             </div>
         </div>
         <div class="clearfix"></div>
